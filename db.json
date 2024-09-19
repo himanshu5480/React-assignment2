@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "id": "2",
+      "title": "React vs Vue: A Detailed Comparison",
+      "description": "Comparing two of the most popular frontend frameworks.",
+      "authorName": "Jane Smith"
+    },
+    {
+      "id": "3",
+      "title": "The Future of Web Development",
+      "description": "Exploring trends shaping the web development landscape.",
+      "authorName": "Alex Johnson"
+    },
+    {
+      "id": "4",
+      "title": "Mastering Tailwind CSS",
+      "description": "A complete guide to using Tailwind CSS for modern web design.",
+      "authorName": "Emily Davis"
+    },
+    {
+      "id": "5",
+      "title": "Demystifying TypeScript",
+      "description": "An introduction to TypeScript for JavaScript developers.",
+      "authorName": "Chris Brown"
+    }
+  ]
+}
